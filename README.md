@@ -2,7 +2,8 @@
 
 I'm excited to share one of my recent projects: an interactive HR Analysis Dashboard built using Power BI. This project aimed to explore and analyze employee data to help HR teams make data-informed decisions around retention, satisfaction, and workforce planning.
 
-🛠️ Project Overview:
+**🛠️ Project Overview:**
+
 In this project, we analyzed a comprehensive HR dataset to identify patterns in employee attrition, job satisfaction, demographics, and education backgrounds. The goal was to build a dashboard that not only visualizes key KPIs but also supports strategic decision-making in HR.
 
 **🔍 Key Highlights:** 
