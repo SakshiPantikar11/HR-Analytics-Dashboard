@@ -36,4 +36,4 @@ This dashboard is a powerful example of how data analytics can uncover workforce
 🔗 Always happy to receive feedback, collaborate on ideas, or connect with fellow data enthusiasts!
 
 
-#PowerBI #HRAnalytics #DataAnalysis #BusinessIntelligence #DashboardDesign #StorytellingWithData #WomenInTech #SakshiPantikar #DataVisualization
+#PowerBI #HRAnalytics #DataAnalysis #BusinessIntelligence #DashboardDesign #StorytellingWithData #SakshiPantikar #DataVisualization
