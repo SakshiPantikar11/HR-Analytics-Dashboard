@@ -1,5 +1,4 @@
-**HR Analytics Dashboard**
-📊 HR Analytics Dashboard – Turning HR Data into Actionable Insights!
+**📊HR Analytics Dashboard – Turning HR Data into Actionable Insights!**
 
 I'm excited to share one of my recent projects: an interactive HR Analysis Dashboard built using Power BI. This project aimed to explore and analyze employee data to help HR teams make data-informed decisions around retention, satisfaction, and workforce planning.
 
